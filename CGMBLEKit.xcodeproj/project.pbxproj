@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		3B4CFE192C223A5600BDB1CB /* LoopKitUI.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 43A8EC49210D09BE00A81379 /* LoopKitUI.framework */; };
 		43026D3F2131C5C600A332E2 /* LocalizedString.swift in Sources */ = {isa = PBXBuildFile; fileRef = 43026D3E2131C5C600A332E2 /* LocalizedString.swift */; };
 		43026D402131C5C600A332E2 /* LocalizedString.swift in Sources */ = {isa = PBXBuildFile; fileRef = 43026D3E2131C5C600A332E2 /* LocalizedString.swift */; };
 		43026D482131C99500A332E2 /* Localizable.strings in Resources */ = {isa = PBXBuildFile; fileRef = 43026D462131C99500A332E2 /* Localizable.strings */; };
@@ -694,6 +695,7 @@
 				A9D99F48225EE99300073DF6 /* HealthKit.framework in Frameworks */,
 				43A8EC64210D530B00A81379 /* LoopKit.framework in Frameworks */,
 				43A8EC72210E633100A81379 /* ShareClient.framework in Frameworks */,
+				3B4CFE192C223A5600BDB1CB /* LoopKitUI.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
